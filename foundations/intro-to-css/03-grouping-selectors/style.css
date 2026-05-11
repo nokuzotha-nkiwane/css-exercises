@@ -1,1 +1,13 @@
 /* Add CSS Styling */
+.background-1, .background-2 {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+.background-1 {
+    color: hsla(0, 0%, 100%, 1.0);
+    background-color: rgba(0,0,0,1.0);
+}
+
+.background-2 {
+   background-color: rgb(245, 245, 17);
+}
