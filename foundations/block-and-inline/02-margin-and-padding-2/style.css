@@ -37,6 +37,7 @@ div, h1 {
 .button-container {
   background: #e3f4ff;
   padding: 10px;
+  text-align: center;
 }
 
 button {
