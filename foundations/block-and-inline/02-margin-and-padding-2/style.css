@@ -20,7 +20,7 @@ div, h1 {
   width: 400px;
   background: #fff;
   margin: 16px auto;
-  width: 400px;
+  width: 450px;
 }
 
 .title {
@@ -31,6 +31,7 @@ div, h1 {
 
 .content {
   background: #e3f4ff;
+  padding: 15px 8px;
 }
 
 .button-container {
