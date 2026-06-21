@@ -13,6 +13,7 @@ body {
 
 div, h1 {
   margin: 10px;
+  padding: 10px 2px 2px 2px;
 }
 
 .card {
@@ -24,6 +25,7 @@ div, h1 {
 .title {
   background: #e3f4ff;
   font-size: 16px;
+  padding: 10px;
 }
 
 .content {
